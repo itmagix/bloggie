@@ -1,5 +1,0 @@
-- eindelijk Vistaprint gebeld en kaarten besteld
-- nu nog even meeting met de klant regelen
-- hoppy lekker bakkie gezeik over de standup uitgeschreven
-- xStreamer geinstalleerd!! Gaat het dan wat worden vandaag?
-- Bijzonder verhaal bij BooS met The Voice
