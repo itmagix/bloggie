@@ -1,3 +1,4 @@
+# WORK IN PROGRESS
 # Self-hosted Bitwarden with Docker Compose
 We are going to install a Bitwarden server that runs behind the [Linuxserver.io SWAG Reverse Proxy](https://www.linuxserver.io/blog/2020-08-26-setting-up-authelia). The Bitwarden server is only accessable over SSL and authentication is handled by [Authelia](https://www.authelia.com/) and use of [Yubico Yubikey](https://www.yubico.com/) is possible.
 
