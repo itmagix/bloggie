@@ -1,9 +1,0 @@
-- Kenter observatie
-- Gnome fixed
-- Yubikey besteld
-- Nieuwe huispak
-- Kraai met TF geholpen
-- MS You signed out of your account - It's a good idea to close all browser windows.
-- Meer domme dingen doen; Beta driver van Nvidia op servertje knallen. Gewoon omdat het kan! Nah, eigenlijk ook omdat OBS niet op wil nemen. En ik wil dat wel. Dus.
-- eerste foutmeldingen al weer gekregen, nu booten (duh!) zonder grafische omgeving en zien wat dit feestje ons gaat brengen. Wel het fijne is toch wel dat ik gewoon VI + TMUX kan gebruiken terwijl ik mijn servertje om zeep aan het helpen ben.
-- Dacht dat iemand me een knal zou geven wanneer ik iets impulsiefs ging doen.
